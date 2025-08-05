@@ -1,8 +1,8 @@
+#this is v1.0.5
+
 using Agents
 import StatsBase
 using Random
-
-# change to create new release
 
 @agent struct Daisy(GridAgent{2})
     breed::Symbol
