@@ -1,5 +1,6 @@
-abstract: Julia implementation of daisyworld (https://juliadynamics.github.io/AgentsExampleZoo.jl/dev/examples/daisyworld/#Daisyworld).
-  edits here after new release from github.
+abstract: "Julia implementation of daisyworld (https://juliadynamics.github.io/AgentsExampleZoo.jl/dev/examples/daisyworld/#Daisyworld).\
+  \ \nnow i'm making edits to the description field from the comses side. is this\
+  \ going to show up on github as a new branch?"
 authors:
 - email: manuela.vanegasf@asu.edu
   family-names: Vanegas Ferro
@@ -15,7 +16,7 @@ keywords:
 license: MIT
 message: If you use this software, please cite it using the metadata from this file.
 repository-code: https://github.com/manuvanegas/daisyworld-comsestest
-title: Daisyworld
+title: Daisyworld d
 type: software
 url: https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.4/
 version: 1.0.4
