@@ -1,52 +1,52 @@
 {
-  "@id": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.0/",
-  "url": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.0/",
-  "name": "Daisyworld",
+  "@context": "https://w3id.org/codemeta/3.0",
   "@type": "SoftwareSourceCode",
-  "author": [
+  "@id": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.2/",
+  "name": "Daisyworld",
+  "codeRepository": "https://github.com/manuvanegas/daisyworld-comsestest",
+  "programmingLanguage": [
     {
-      "@id": "https://staging.comses.net/users/2727/",
-      "@type": "Person",
-      "email": "manuela.vanegasf@asu.edu",
-      "givenName": "Manuela",
-      "familyName": "Vanegas Ferro"
+      "@type": "ComputerLanguage",
+      "name": "Julia"
     }
   ],
-  "license": {
-    "url": "https://opensource.org/licenses/MIT",
-    "name": "MIT",
-    "@type": "CreativeWork"
-  },
-  "version": "1.0.0",
-  "@context": "https://w3id.org/codemeta/3.0",
-  "keywords": [
-    "Julia",
-    "julia-lang"
-  ],
-  "publisher": {
-    "@id": "https://ror.org/015bsfc29",
-    "url": "https://www.comses.net",
-    "name": "CoMSES Net",
-    "@type": "Organization"
-  },
-  "identifier": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.0/",
-  "dateCreated": "2025-08-05",
-  "description": "Julia implementation of daisyworld (https://juliadynamics.github.io/AgentsExampleZoo.jl/dev/examples/daisyworld/#Daisyworld). edits here after new release from github.",
-  "downloadUrl": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.0/download/",
-  "dateModified": "2025-08-05",
-  "releaseNotes": "notes",
-  "copyrightYear": 2025,
-  "datePublished": "2025-08-05",
-  "codeRepository": "https://github.com/manuvanegas/daisyworld-comsestest",
-  "operatingSystem": "macos",
   "runtimePlatform": [
     "Agents.jl"
   ],
   "applicationCategory": "Computational Model",
-  "programmingLanguage": [
+  "downloadUrl": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.2/download/",
+  "operatingSystem": "macos",
+  "releaseNotes": "release notes for v1.0.2. this release is done from comses, not github. although apparently authors don't have control over the release number? it's v1.1.0 now.",
+  "author": [
     {
-      "name": "Julia",
-      "@type": "ComputerLanguage"
+      "@id": "https://staging.comses.net/users/2727/",
+      "@type": "Person",
+      "givenName": "Manuela",
+      "familyName": "Vanegas Ferro",
+      "email": "manuela.vanegasf@asu.edu"
     }
-  ]
+  ],
+  "copyrightYear": 2025,
+  "dateCreated": "2025-08-05",
+  "dateModified": "2025-08-05",
+  "datePublished": "2025-08-05",
+  "keywords": [
+    "Julia",
+    "julia-lang"
+  ],
+  "license": {
+    "@type": "CreativeWork",
+    "url": "https://opensource.org/licenses/MIT",
+    "name": "MIT"
+  },
+  "publisher": {
+    "@id": "https://ror.org/015bsfc29",
+    "@type": "Organization",
+    "url": "https://www.comses.net",
+    "name": "CoMSES Net"
+  },
+  "version": "1.0.2",
+  "identifier": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.2/",
+  "description": "Julia implementation of daisyworld (https://juliadynamics.github.io/AgentsExampleZoo.jl/dev/examples/daisyworld/#Daisyworld). edits here after new release from github.",
+  "url": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.2/"
 }
