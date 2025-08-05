@@ -1,0 +1,17 @@
+abstract: Julia implementation of daisyworld (https://juliadynamics.github.io/AgentsExampleZoo.jl/dev/examples/daisyworld/#Daisyworld).
+authors:
+- email: manuela.vanegasf@asu.edu
+  family-names: Vanegas Ferro
+  given-names: Manuela
+cff-version: 1.2.0
+identifiers:
+- type: url
+  value: https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.0/
+keywords:
+- julia-lang
+license: MIT
+message: If you use this software, please cite it using the metadata from this file.
+title: Daisyworld
+type: software
+url: https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.0/
+version: 1.0.0
