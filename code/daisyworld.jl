@@ -1,3 +1,4 @@
+# this is v1.0.4
 using Agents
 import StatsBase
 using Random

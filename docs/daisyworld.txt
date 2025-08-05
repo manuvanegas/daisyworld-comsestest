@@ -1,1 +1,1 @@
-narrative docs of daisyworld
+narrative docs of daisyworld v1.0.4

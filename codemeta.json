@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/codemeta/3.0",
   "@type": "SoftwareSourceCode",
-  "@id": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.2/",
+  "@id": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.4/",
   "name": "Daisyworld",
   "codeRepository": "https://github.com/manuvanegas/daisyworld-comsestest",
   "programmingLanguage": [
@@ -14,9 +14,9 @@
     "Agents.jl"
   ],
   "applicationCategory": "Computational Model",
-  "downloadUrl": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.2/download/",
+  "downloadUrl": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.4/download/",
   "operatingSystem": "macos",
-  "releaseNotes": "release notes for v1.0.2. this release is done from comses, not github. although apparently authors don't have control over the release number? it's v1.1.0 now.",
+  "releaseNotes": "",
   "author": [
     {
       "@id": "https://staging.comses.net/users/2727/",
@@ -45,8 +45,8 @@
     "url": "https://www.comses.net",
     "name": "CoMSES Net"
   },
-  "version": "1.0.2",
-  "identifier": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.2/",
+  "version": "1.0.4",
+  "identifier": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.4/",
   "description": "Julia implementation of daisyworld (https://juliadynamics.github.io/AgentsExampleZoo.jl/dev/examples/daisyworld/#Daisyworld). edits here after new release from github.",
-  "url": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.2/"
+  "url": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.4/"
 }
