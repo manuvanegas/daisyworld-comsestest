@@ -1,7 +1,7 @@
 {
   "@id": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.0/",
   "url": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.0/",
-  "name": "Daisyworld d",
+  "name": "Daisyworld dd",
   "@type": "SoftwareSourceCode",
   "author": [
     {
@@ -31,7 +31,7 @@
   },
   "identifier": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.0/",
   "dateCreated": "2025-08-05",
-  "description": "Julia implementation of daisyworld (https://juliadynamics.github.io/AgentsExampleZoo.jl/dev/examples/daisyworld/#Daisyworld). \nnow i'm making edits to the description field from the comses side. is this going to show up on github as a new branch?",
+  "description": "Julia implementation of daisyworld (https://juliadynamics.github.io/AgentsExampleZoo.jl/dev/examples/daisyworld/#Daisyworld). \nnow i'm making edits to the description field from the comses side. is this going to show up on github as a new branch? Adding more words here, after deleting release/1.0.2.",
   "downloadUrl": "https://staging.comses.net/codebases/1177df3b-0239-4aca-a25f-39a129a2e261/releases/1.0.0/download/",
   "dateModified": "2025-08-05",
   "releaseNotes": "notes",
